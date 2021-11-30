@@ -1,0 +1,24 @@
+body{
+    background-color: #2461F0;
+}
+.navbar .navbar-nav .btn{
+    display: block;
+    color: rgba(255,255,255,.95);
+    font-weight: 600;
+    text-shadow: none;
+    text-decoration: none;
+    padding: 8px 10px;
+    font-size: 13px;
+    margin: 0 0 0 5px;
+    border-radius: 2px;
+    background: 0 0;
+    border: 2px solid #fff;
+}
+.navbar .navbar-nav .nav-link{
+    color: rgba(255,255,255,.95);
+    font-weight: 600;
+    text-shadow: none;
+    text-decoration: none;
+    padding: 8px 10px;
+    font-size: 13px;
+}
